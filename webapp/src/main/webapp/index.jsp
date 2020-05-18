@@ -1,4 +1,5 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible </h2>
-<h2> Glad to see you here Thank you!!!!!!!!!!!!!!!!!!!!!</h2>
+<h1> THIS IS MY FIRST TESTING APPLICATION </h1>
+<h2> WELCOME! </h2>
+<h2> WELCOME !!</h2>
+<h2> I AM PLAYING GAMES</h2>
 <h2> bye byeeeeeee</h2>
