@@ -17,8 +17,8 @@
 		Password : <input type="text" name="upassword"></input> 
 		<br/>
 	
-	        <h6>Please enter your password</h6>
-		Password : <input type="text" name="upassword"></input> 
+	        <h6>Please retype your password</h6>
+		Retype Password : <input type="text" name="upassword"></input> 
 		<br/>
 	
 		<input type="submit"value="Submit" />
