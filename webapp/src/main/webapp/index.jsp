@@ -7,11 +7,16 @@
 <title>JavaWeb</title>
 </head>
 <body>
-	<h3>Hello This is Java Wep App</h3>
+	<h3>Hello Welcome to my FYP1 ...</h3>
 	<form action=${pageContext.request.contextPath}/hello method="get">
 		<h2>Please enter your name</h2>
 		Name : <input type="text" name="uname"></input> 
 		<br/>
+	
+	        <h4>Please enter your password</h4>
+		Name : <input type="text" name="upassword"></input> 
+		<br/>
+	
 		<input type="submit"value="Submit" />
 	</form>
 </body>
