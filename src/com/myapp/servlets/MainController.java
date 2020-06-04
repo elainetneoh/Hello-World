@@ -34,7 +34,7 @@ public class MainController extends HttpServlet {
 		}
 //		response.getWriter().append("Hello "+uname+" this wepapp is served at Served at: ").append(request.getContextPath());
         
-		String message="Hello "+uname+" this wepapp ";
+		String message="Hello "+uname+" Welcome to my page ...Have a nice day ... ";
 		request.setAttribute("message", message);
         request.getRequestDispatcher("/Welcome.jsp").forward(request, response);
 	
