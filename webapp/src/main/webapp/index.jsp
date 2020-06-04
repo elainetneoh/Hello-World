@@ -14,7 +14,7 @@
 		<br/>
 	
 	        <h4>Please enter your password</h4>
-		Name : <input type="text" name="upassword"></input> 
+		Password : <input type="text" name="upassword"></input> 
 		<br/>
 	
 		<input type="submit"value="Submit" />
