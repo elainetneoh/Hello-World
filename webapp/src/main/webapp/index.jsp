@@ -13,7 +13,7 @@
 		Name : <input type="text" name="uname"></input> 
 		<br/>
 	
-	        <h4>Please enter your password</h4>
+	        <h4>Please enter your password.</h4>
 		Password : <input type="text" name="upassword"></input> 
 		<br/>
 	
