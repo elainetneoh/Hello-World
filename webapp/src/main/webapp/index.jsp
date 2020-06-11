@@ -7,7 +7,7 @@
 <title>JavaWeb</title>
 </head>
 <body>
-	<h3>Hello Welcome to my FYP1 ...</h3>
+	<h3>Hello! Welcome to my FYP1 ...</h3>
 	<form action=${pageContext.request.contextPath}/hello method="get">
 		<h2>Please enter your name</h2>
 		Name : <input type="text" name="uname"></input> 
