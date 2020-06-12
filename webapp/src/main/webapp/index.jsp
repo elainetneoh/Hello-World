@@ -16,7 +16,10 @@
 	        <h4>Please enter your password.</h4>
 		Password : <input type="text" name="upassword"></input> 
 		<br/>
-	
+	        
+	        <h4>Please retype your password.</h4>
+		Retype Password : <input type="text" name="upassword"></input> 
+		<br/>
              
 		<input type="submit"value="Submit" />
 	</form>
